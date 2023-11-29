@@ -1,0 +1,14 @@
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\bin\Debug\net8.0\StaticFields.exe
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\bin\Debug\net8.0\StaticFields.deps.json
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\bin\Debug\net8.0\StaticFields.runtimeconfig.json
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\bin\Debug\net8.0\StaticFields.dll
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\bin\Debug\net8.0\StaticFields.pdb
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\StaticFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\StaticFields.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\StaticFields.AssemblyInfo.cs
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\StaticFields.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\StaticFields.dll
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\refint\StaticFields.dll
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\StaticFields.pdb
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\StaticFields.genruntimeconfig.cache
+C:\Users\denni\Documents\C# упражнения\StaticFields\StaticFields\obj\Debug\net8.0\ref\StaticFields.dll
